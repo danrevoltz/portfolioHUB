@@ -16,6 +16,7 @@ portfolioHUB/
 - assets/ # Imagens e recursos
 - README.md # Este arquivo
 ## Preview
-(Adicione aqui um print da pagina)
+<img width="1868" height="769" alt="image" src="https://github.com/user-attachments/assets/2641d8d1-a291-4f4b-a98e-bce5aa75efec" />
+
 ## Autor
 Daniel Dias - Estudante de Ciencia da Computacao - 1o Semestre
